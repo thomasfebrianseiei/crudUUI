@@ -1,5 +1,3 @@
-Certainly, here's the step-by-step guide I provided earlier in Markdown format for your convenience:
-
 ```markdown
 # Nest.js CRUD Example with Prisma, UUIDs, and PostgreSQL
 
